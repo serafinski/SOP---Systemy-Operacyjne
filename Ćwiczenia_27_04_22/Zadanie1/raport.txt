@@ -1,0 +1,2 @@
+Bierzacy katalog zawiera 3 plikow z rozszerzeniem .log
+w tym 2 plikow zawiera przynajmniej jedno slowo fail.
